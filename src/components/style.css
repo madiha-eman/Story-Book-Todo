@@ -1,0 +1,34 @@
+.form1{
+    margin: auto;
+    border: 2px solid goldenrod;
+    width: 350px;
+    padding: 30px;
+    margin-top: 80px;
+    text-align: center;
+}
+.input1{
+    height: 20px;
+    border: 2px solid goldenrod;
+    outline: none;
+    border-radius: 25px 0 0 25px;
+    padding-left: 8px;
+
+}
+.input1:focus{
+    border-color: goldenrod;
+}
+.input1:hover{
+    border: 2px solid goldenrod;
+
+}
+.btn{
+    height: 26px;
+    width: 70px;
+    border: none;
+    outline: none;
+    border: 2px solid goldenrod;
+    background-color: goldenrod;
+    color: white;
+    font-size: 12px;
+    border-radius: 0 25px 25px 0;
+}
