@@ -1,10 +1,10 @@
 import React from 'react'
-import AddTodo from './AddTodo'
+import Navbar from './Navbar'
 
 function Main() {
     return (
         <div>
-            <AddTodo />
+            <Navbar />
         </div>
     )
 }

@@ -1,0 +1,21 @@
+{
+    "AboutInfo": {
+      "about" : {
+        "title": "Madiha Eman",
+        "subtitle": "Full Stack Developer",
+        "location": "https://portfolio-atc.s3-sa-east-1.amazonaws.com/gravatar.png",
+        "key": "anthony-tapia"
+      }
+    },
+    "NavbarInfo" : {
+      "home": "Home",
+      "product": "Product",
+      "cart": "Cart",
+      "login": "Login",
+      "register": "Register",
+      "logo": {
+        "location": "https://portfolio-atc.s3-sa-east-1.amazonaws.com/logo.png",
+        "key": "portfolio-logo"
+      }
+    }
+}
